@@ -1,17 +1,14 @@
-<div align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
-  <h2 align="center">GitHub Profile Trophy</h2>
-</div>
-<div align="center">
-</div>
 
-<h1 align="center">Hi 👋, I'm MUHAMMAD AL-RAYYAN</h1>
+
+<h1 align="center"> MUHAMMAD AL-RAYYAN</h1>
 <h3 align="center">Software Engineer • Python • AI • DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alrayyan96&label=Profile%20views&color=0e75b6&style=flat" alt="alrayyan96" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alrayyan96" alt="alrayyan96" /></a> </p>
-
+<div align="left">
+  <img width="70" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
+</div>
+<div align="left">
+</div>
 - 👨‍💻 All of my projects are available at [https://portfolio-muhammad-alrayyan.netlify.app/](https://portfolio-muhammad-alrayyan.netlify.app/)
 
 - 📫 How to reach me **alrayyanjawad@gmail.com**
