@@ -1,8 +1,10 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=MUHAMMAD%20AL%20RAYYAN&fontSize=55&fontAlignY=40&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20DevOps%20Engineer&descAlignY=63"/>
 
-<h1 align="center"> MUHAMMAD AL-RAYYAN</h1>
-<h3 align="center">Software Engineer • Python • AI • DevOps</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Applications;DevOps+%7C+Cloud+%7C+Python;Always+Learning+New+Technologies+🚀;Welcome+to+my+GitHub+Profile!" />
 
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alrayyan96&label=Profile%20views&color=0e75b6&style=flat" alt="alrayyan96" /> </p>
 <div align="left">
   <img width="70" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
