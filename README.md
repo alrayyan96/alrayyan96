@@ -18,7 +18,7 @@
 <a href="https://instagram.com/extro_ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="extro_ray" height="30" width="40" /></a>
 </p>
 <p align="left">
-  <a href="https://portfolio-muhammad-alrayyan.netlify.app/" target="_blank">
+  <a href="https://muhammadalrayyan.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐-Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 
